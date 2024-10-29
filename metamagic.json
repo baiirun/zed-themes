@@ -95,8 +95,8 @@
         "tab.inactive_background": "#080808",
         "tab_bar.background": "#080808",
         "terminal.ansi.black": "#080808",
-        "terminal.ansi.bright_black": "#080808",
-        "terminal.ansi.dim_black": "#080808",
+        "terminal.ansi.bright_black": "#6a7070",
+        "terminal.ansi.dim_black": "#272727",
         "terminal.ansi.blue": "#92B1CF",
         "terminal.ansi.bright_blue": "#92B1CF",
         "terminal.ansi.dim_blue": "#92B1CF",
@@ -136,9 +136,9 @@
         "warning.border": "#b7bdc8ff",
         "players": [
           {
-            "cursor": "#0576ffff",
-            "background": "#0576ffff",
-            "selection": "#0576ff66"
+            "cursor": "#89C7C9",
+            "background": "080808",
+            "selection": "#3a4040"
           },
           {
             "cursor": "#984b10ff",
